@@ -1,5 +1,9 @@
 {
   "workspace": {
+    "https://github.com/Fred4106/TestRepo.git": [
+      "Fred4106/TestRepo",
+      "1677949254857"
+    ],
     "https://gist.github.com/cb9e4207e37668c776eaae643701f92c.git": [
       "https://gist.github.com/cb9e4207e37668c776eaae643701f92c.git",
       "1677948744660"
