@@ -1,5 +1,17 @@
 {
+  "workspace": {
+    "https://gist.github.com/cb9e4207e37668c776eaae643701f92c.git": [
+      "https://gist.github.com/cb9e4207e37668c776eaae643701f92c.git",
+      "1677948744660"
+    ]
+  },
   "studio-open-web": {},
+  "studio-open-git": {
+    "https://gist.github.com/cb9e4207e37668c776eaae643701f92c.git:nemaStepper.groovy": [
+      "https://gist.github.com/cb9e4207e37668c776eaae643701f92c.git",
+      "nemaStepper.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "fontsize": 12.0,
     "skinBranch": "0.25.2",
