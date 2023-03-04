@@ -11,6 +11,10 @@
     "https://gist.github.com/4814b39ee72e9f590757.git": [
       "https://gist.github.com/4814b39ee72e9f590757.git",
       "1677949149381"
+    ],
+    "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git": [
+      "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git",
+      "1677949399262"
     ]
   },
   "studio-open-web": {},
@@ -27,6 +31,10 @@
     "robotGit": "https://gist.github.com/f5b82075ea6dcca93f1ea44265497ec5.git"
   },
   "studio-open-git": {
+    "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git:dhcad.groovy": [
+      "https://github.com/CommonWealthRobotics/DHParametersCadDisplay.git",
+      "dhcad.groovy"
+    ],
     "https://github.com/Fred4106/TestRepo.git:TestRepo.groovy": [
       "https://github.com/Fred4106/TestRepo.git",
       "TestRepo.groovy"
